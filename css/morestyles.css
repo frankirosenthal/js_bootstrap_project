@@ -1,0 +1,12 @@
+body {
+  background: #b7def7;
+  font-family: 'Raleway', sans-serif;
+}
+
+.rotate-right {
+  transform: rotate(4deg);
+}
+
+.rotate-left {
+  transform: rotate(-4deg);
+}
